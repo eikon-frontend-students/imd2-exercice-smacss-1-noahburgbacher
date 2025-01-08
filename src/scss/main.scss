@@ -1,3 +1,12 @@
-@import 'base';
-@import 'layout';
-@import 'modules/example';
+@import "base";
+@import "layout";
+@import "modules/_social.scss";
+@import "modules/_account.scss";
+@import "modules/_cart.scss";
+@import "modules/_search.scss";
+@import "modules/_branding.scss";
+@import "modules/_prinav.scss";
+@import "modules/_category.scss";
+@import "modules/_breadcrumbs.scss";
+@import "modules/_product.scss";
+@import "modules/_gallery.scss";
